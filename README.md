@@ -1,6 +1,8 @@
 # Structural connectome in depression 
 <p>Scripts used for the following paper: "A comprehensive hierarchical comparison of structural connectomes in Major Depressive Disorder cases versus controls in two large population samples"</p>
 
+Published in [Psychological Medicine](https://doi.org/10.1017/S0033291724000643)
+
 ## prep directory
 * prep_conn_matrices.R: extract FA matrices for each subject and compile them into a 3D matrix (85 nodes x 85 nodes x no_of_subj) for cases and controls
 * prep_subj_phenotypes_gs.R: prepare MDD phenotype and other necessary covariates in GS
